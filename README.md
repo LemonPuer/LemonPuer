@@ -10,7 +10,7 @@
 ## 座右铭
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Zhi+Mang+Xing&duration=3000&pause=50&color=90FFF0&background=FFFFFF00&center=true&vCenter=true&multiline=true&random=false&width=200&height=80&lines=%E6%B2%A1%E6%9C%89%E6%96%B9%E5%90%91%E7%9A%84%E8%88%B9%EF%BC%8C;%E6%97%A0%E8%AE%BA%E4%BB%80%E4%B9%88%E9%A3%8E%E9%83%BD%E6%98%AF%E9%80%86%E9%A3%8E" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Zhi+Mang+Xing&duration=2000&pause=50&color=90FFF0&background=FFFFFF00&center=true&vCenter=true&multiline=true&random=false&width=200&height=80&lines=%E6%B2%A1%E6%9C%89%E6%96%B9%E5%90%91%E7%9A%84%E8%88%B9%EF%BC%8C;%E6%97%A0%E8%AE%BA%E4%BB%80%E4%B9%88%E9%A3%8E%E9%83%BD%E6%98%AF%E9%80%86%E9%A3%8E" alt="Typing SVG" /></a>
 </p>
 
 ## 技术储备
