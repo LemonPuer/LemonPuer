@@ -47,13 +47,19 @@
 <a href="https://github.com/LemonPuer" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-</div>
-
+</div>  
 ## Github
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=LemonPuer&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" align="center" /></div> 
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LemonPuer&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&locale=cn&layout=compact" /> </div>
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=LemonPuer&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&locale=cn" align="center" /></div>    
+
+<p align="center">
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=LemonPuer&theme=duskfox&hide_border=%E7%9C%9F%E7%9A%84&locale=zh_Hans&date_format=%5BY.%5Dn.j" alt="GitHub Streak" /></a>
+</p>
 
 ## 最近的文章
+
 <!-- BLOG-POST-LIST:START -->  
 If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
 <!-- BLOG-POST-LIST:END -->    
