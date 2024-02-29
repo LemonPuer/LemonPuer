@@ -54,9 +54,7 @@
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=LemonPuer&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&locale=cn" align="center" /></div>
 
-<p align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=LemonPuer&theme=duskfox&hide_border=%E7%9C%9F%E7%9A%84&locale=zh_Hans&date_format=%5BY.%5Dn.j" alt="GitHub Streak" /></a>
-</p>
+<div align="center"><img src="https://streak-stats.demolab.com?user=LemonPuer&theme=duskfox&hide_border=%E7%9C%9F%E7%9A%84&locale=zh_Hans&date_format=%5BY.%5Dn.j" alt="center" /></div>
 
 ## 最近的文章
 
